@@ -110,6 +110,14 @@ asyncAmenitiesDefinition.value = {
     menuScaling: new paper.Point(0.14, 0.14),
     offset: new paper.Point(-5, -5.5),
   },
+  cfStoneExterior4Blue: {
+    img: 'static/sprite/CF_Stone_Exterior_4_Blue.png',
+    size: new paper.Size([10, 6]),
+    scaling: new paper.Point(0.03, 0.03),
+    menuScaling: new paper.Point(0.14, 0.14),
+    offset: new paper.Point(-5, -5.5),
+  },
+  
 
   // legacy
   bridgeVerticalSprite: {
